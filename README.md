@@ -7,12 +7,12 @@ The aim of the portal is to:
 
 
 TABLE OF CONTENTS:
-	General Information
-	Setup
-	Getting Started
-	Problem
-	Requirements
-	Roadmap
+	*General Information*
+	*Setup*
+	*Getting Started*
+	*Problem*
+	*Requirements*
+	*Roadmap*
 
 
 GENERAL INFORMATION:
