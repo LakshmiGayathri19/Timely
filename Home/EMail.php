@@ -40,8 +40,8 @@ if(($_POST['name'])=='SendMail'){
                 $mail ->Host = "smtp.gmail.com";
                 $mail ->Port = 465; // or 587
                 $mail ->IsHTML(true);
-                $mail ->Username = "priyal81252@gmail.com";
-                $mail ->Password = "PRIyal123$";
+                $mail ->Username = "******@gmail.com";//ur email id
+                $mail ->Password = "*********";//ur password
                 $mail ->SetFrom("Timely@gmail.com");
                 
                 $mail ->Body = $mailMsg;
